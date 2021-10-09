@@ -81,6 +81,8 @@ hi, i'm [Salah Eddine BENALI](https://www.linkedin.com/in/salah-eddine-benali-46
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   </div>
+  <br/>  <br/>
+<hr/>
 ### Connect with Me 🤝 
 
 <a href="https://www.linkedin.com/in/salah-eddine-benali-468008142/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
